@@ -1,0 +1,6 @@
+H, M, S = input().split()
+
+if float(M)/float(S) < float(H):
+  print(H + ' ' + M + ' ' + S + ' ' + " You will make it!")
+elif float(M)/float(S) > float(H):
+  print(H + ' ' + M + ' ' + S + ' ' + " You will be late!")
