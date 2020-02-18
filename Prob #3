@@ -1,0 +1,2 @@
+r = input()
+print(float(r) * float(r) * 3 * 3.14159 / 4)
