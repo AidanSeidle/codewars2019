@@ -1,0 +1,3 @@
+v, a, t = input().split()
+d = (float(v)*float(t)) + (float(a)*(float(t)**2)/2)
+print(round(d, 3))
