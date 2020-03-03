@@ -1,0 +1,2 @@
+name = input()
+print("Salutations, " + name + "! We are the Fighting Sandcrabs from Port Lavaca HS!")
