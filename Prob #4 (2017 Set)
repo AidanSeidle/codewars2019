@@ -1,0 +1,16 @@
+records = input()
+position = 0
+routes = []
+while position < int(records):
+  mi, min = input().split()
+  routes.append(mi)
+  routes.append(min)
+  position += 1
+position2 = 0
+nummi = 0
+nummin = 1
+while position2 < int(records) or nummim =< len(routes):
+  average = float(routes[int(nummi)]) / (float(routes[int(nummin)]) / 60)
+  nummi += 2
+  nummin += 2
+  print(average)
