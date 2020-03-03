@@ -1,0 +1,9 @@
+t = input()
+t1 = input()
+t2 = input()
+d = float(t) * 0.299792
+d1 = float(t1) * 0.299792
+d2 = float(t2) * 0.299792
+print(d)
+print(d1)
+print(d2)
